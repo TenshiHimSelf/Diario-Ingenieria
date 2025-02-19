@@ -1,0 +1,194 @@
+*{
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #FFF2F2;
+  
+}
+
+
+.navbar{
+  background-color: #2D336B;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding: 10px;
+}
+
+.navdiv{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main a{
+  font-family: "Signika Negative", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 35px;
+  color: #A9B5DF;
+}
+
+.main a:hover{
+  color: #5e70be;
+}
+
+
+li{
+  list-style: none;
+  display: inline-block;
+}
+
+li a{
+  font-family: "Signika Negative", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 20px;
+  color: #A9B5DF;
+  margin-right: 25px;
+  padding: 16px;
+  transition: color 0.2s ease; 
+}
+
+li a:hover{
+  background-color: #7886C7;
+  color: black;
+}
+
+
+
+
+.WeekOne-Top h1{
+  margin-bottom: 30px;
+  font-family: "Signika Negative", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 80px;
+  text-align:center;
+
+}
+
+.banner-img img{
+
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: auro;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      z-index: 1000;
+      top: 63px;
+      display: block;
+}
+
+footer p{
+  text-align: center;
+  font-family: "Signika Negative", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  padding-top: 25px;
+  padding-bottom: -100px;
+}
+
+
+footer a{
+  color: #7886C7;
+  transition: color 0.3s ease; 
+}
+
+
+footer a:hover{
+  color: black ;
+}
+
+
+.text-body {
+  font-family: "Signika Negative", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  padding: 45px;
+}
+
+.Des-acti p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.Des-acti h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+.con-apre p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.con-apre h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+.solu-deci p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.solu-deci h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+.herr-uti p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;margin-bottom: 10px;
+
+}
+.herr-uti h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+.refle-perso p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.refle-perso h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+
+
+
+
+.banner-img p {
+  font-family: "Signika Negative", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+
+}
+.banner-img p{
+  text-align: center;
+  margin-top: -45px;
+  margin-bottom: 50px;
+
+}
+.banner-img a{
+  color: #7886C7;
+  transition: color 0.3s ease; 
+}
+.banner-img a:hover{
+  color: black ;
+}
+
