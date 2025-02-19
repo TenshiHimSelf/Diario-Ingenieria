@@ -85,12 +85,6 @@ li a:hover{
       display: block;
 }
 
-
-
-
-
-
-
 footer p{
   text-align: center;
   font-family: "Signika Negative", serif;
@@ -110,3 +104,91 @@ footer a{
 footer a:hover{
   color: black ;
 }
+
+
+.text-body {
+  font-family: "Signika Negative", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  padding: 45px;
+}
+
+.Des-acti p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.Des-acti h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+.con-apre p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.con-apre h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+.solu-deci p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.solu-deci h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+.herr-uti p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;margin-bottom: 10px;
+
+}
+.herr-uti h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+.refle-perso p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+}
+.refle-perso h2{
+  text-align: justify;
+  font-size: 40px;
+}
+
+
+
+
+
+.banner-img p {
+  font-family: "Signika Negative", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+
+}
+.banner-img p{
+  text-align: center;
+  margin-top: -45px;
+  margin-bottom: 50px;
+
+}
+.banner-img a{
+  color: #7886C7;
+  transition: color 0.3s ease; 
+}
+.banner-img a:hover{
+  color: black ;
+}
+
